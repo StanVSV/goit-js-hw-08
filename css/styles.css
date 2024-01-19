@@ -1,0 +1,17 @@
+.container-gallery {
+    background: #FFF;
+    padding: 100px 156px;
+    outline: none;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px 24px;
+    justify-content: center; 
+    list-style: none;
+}
+
+.gallery-image {
+    width: 360px;
+}
